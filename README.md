@@ -4,7 +4,7 @@ We build models from scratch with notes.
 ## Checklist
 
 Code Development
-- [] Implement ResNet50
+- [ ] Implement ResNet50
 
 
 
